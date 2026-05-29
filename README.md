@@ -8,22 +8,23 @@ The scanner uses Python sockets and threading to identify open ports on target s
 ---
 **Features**
 
-Port scanning
-Multi-threaded scanning
-Open port detection
-Fast scanning
+Port scanning,
+Multi-threaded scanning,
+Open port detection,
+Fast scanning,
 Command-line interface
 
 ---
 
 **Technologies Used**
 
-Python 3	
-Socket Library
-Threading
+Python 3,	
+Socket Library,
+Threading,
 Linux CLI
 
 **Example Usage**
+
 python3 scanner.py
 
 Example target:
@@ -36,10 +37,12 @@ Example target:
 ---
 
 **Skills Demonstrated**
-	Python programming
-	Networking concepts
-	Cybersecurity reconnaissance
-	Linux command line usage
+
+Python programming,
+Networking concepts,
+Cybersecurity reconnaissance,
+Linux command line usage
+
 ---
 
 **Ethical Notice**
