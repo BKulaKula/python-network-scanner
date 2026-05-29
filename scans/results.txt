@@ -1,0 +1,1 @@
+Scan Results for 192.168.56.10----------------------------------------Port 22 OPEN (SSH) Port 80 OPEN (HTTP) 
